@@ -1,0 +1,22 @@
+p.justify {
+  text-align: justify;
+  text-justify: inter-word;
+  line-height: 1.6;
+}
+
+/* Optional: alle Absätze im Blocksatz */
+p {
+  text-align: justify;
+  text-justify: inter-word;
+  line-height: 1.6;
+}
+
+/* Optional: Bild leicht abrunden */
+img {
+  border-radius: 12px;
+}
+
+/* Hintergrund*/
+body {
+  background-color: #f5f5f5; /* sanftes Grau */
+}
