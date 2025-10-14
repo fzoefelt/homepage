@@ -1,0 +1,90 @@
+---
+title: <img src="images/Logo.png" alt="Logo" width="110" class="logo"> Welcome to my homepage!
+format:
+  html:
+    mainfont: "Noto Sans"
+    css: styles.css
+    include-in-header: includes/head.html
+editor: visual
+---
+
+
+<img src="images/FZ_picture.png"
+     alt="Fabian Zöfelt"
+     width="150"
+    style="border-radius: 12px; float: right; margin: 0 0 10px 20px;">
+
+<p class="justify">
+
+My name is Fabian Zöfelt (\[faˈbiːan ˈtsœfɛlt\]). I'm a linguist and PhD student at <a href="https://www.uni-bielefeld.de" target="_blank">Bielefeld University</a>. Currently, I'm working in the project <a href="https://www.uni-bielefeld.de/sfb/sfb1646/projekte/a01/" target="_blank"> Creativity in (morpho)syntactic variation. The role of analogy</a> at <a href="https://www.uni-bielefeld.de/sfb/sfb1646/index.xml" target="_blank"> CRC 1646: Linguistic Creativity in Communication</a>.
+
+I'm especially interested in (morpho)syntactic phenomena such as non-canonical passive constructions and long-distance dependencies. My work is mainly focused on German and tries to combine descriptive approaches, empirical evidence, and minimal-generative perspectives. In my dissertation and as part of my work in project A01, I explore whether exceptional extraction from islands can be explained by analogy. My PIs and supervisors are [Jutta M. Hartmann](https://www.uni-bielefeld.de/fakultaeten/linguistik-literaturwissenschaft/personen/jutta-hartmann/) and [András Bárány](https://andras.barany.at).
+
+I'm also interested in historical linguistics and language change – in particular, in questions such as what motivates grammaticalization processes and how these can be modeled syntactically.
+
+</p>
+Last updated: October 14, 2025
+
+# Curriculum vitae
+
+::: panel-tabset
+# Current Position
+
+-   **Since May, 2024:** I am scientific staff and PhD candidate at [Bielefeld University](https://www.uni-bielefeld.de)\
+    Project: [Creativity in (morpho)syntactic variation. The role of analogy](https://www.uni-bielefeld.de/sfb/sfb1646/projekte/a01/)\
+    within [CRC 1646: Linguistic Creativity in Communication](https://www.uni-bielefeld.de/sfb/sfb1646/index.xml)
+
+# Previous Positions
+
+-   **2023 -- 2025:** I was an external lecturer at [Ruhr University Bochum](https://www.ruhr-uni-bochum.de/de) ([German studies and historical linguistics](https://www.ruhr-uni-bochum.de/hist-linguistik/)). I taught two courses on (morpho)syntax of historical German (within the generative framework) and a practice course on grammaticalization and corpus research.
+-   **10/2022 -- 12/2023:** Student assistant and tutor, graduate (WHK) \| German Studies, Chair: Historical Linguistics, Prof. Dr. Eric Fuß \| [Ruhr University Bochum](https://www.ruhr-uni-bochum.de/de)
+-   **10/2021 -- 12/2023:** Student Assistant, graduate (WHK) \| German Studies, Dr. Judith Berman \| [Ruhr University Bochum](https://www.ruhr-uni-bochum.de/de)
+-   **04/2021 -- 09/2021:** Student Assistant, undergraduate (SHK) \| German Studies, Dr. Judith Berman \| [Ruhr University Bochum](https://www.ruhr-uni-bochum.de/de)
+
+# Education
+
+-   **2021 -- 2024:** M.A. German Studies (with distinction) \| at [Ruhr University Bochum](https://www.ruhr-uni-bochum.de/de) \| Thesis: *Was zu beschreiben ist: Nicht-kanonische Passivstrukturen im Deutschen* (Supervision: Eric G. Fuss & Karin Pittner)
+-   **2018 -- 2021** \| B.A. Major: German Studies & History, Minor: Optionalbereich mit Profil Lehramt (=Education) \| at [Ruhr University Bochum](https://www.ruhr-uni-bochum.de/de) \| Thesis: *Zur korrelativen Subordination bei satzwertigen Komplementen* (Supervision: Judith Berman & Karin Pittner)
+:::
+
+# Scientific output
+
+::: panel-tabset
+# Publications
+
+-   (in prep.) Was zu beschreiben ist: Towards a taxonomy of German non-canonical passives. In: Russo Cardona, L., F. Longo, T. Sgrizzi, and H. Tamleh, (eds). *Proceedings of the 33rd Conference of the Student Organization of Linguistics in Europe (29--31 January 2025, University of Göttingen)*.
+
+# Talks
+
+-   07/2025 \| *On Morphosyntactic Creativity by Analogy. Case Studies on Long-Distance Dependencies in Hungarian and German* \| together with [Daczó, Szilvia](https://szilviadaczo.com) \| at CRC Colloquium, Bielefeld
+-   05/2025 \| *German wenn-clauses and Linguistic Creativity* \| at [LinCreGG](https://www.uni-bielefeld.de/sfb/sfb1646/projekte/a01/Conferences/lincregg/), Bielefeld
+-   04/2025 \| *Wenn wir es nur wüssten - Syntaktische Ambiguität von und Extraktion aus wenn-Sätzen* \| at [GAKT-BI - Kreativität & Interpretation](https://gakt.uni-koeln.de/sites/IDSLI/dozentenseiten/Heusinger/Konferenzen/GAKT-BI-2025-Programm.pdf), Bielefeld
+-   04/2025 \| *Wenn wir es nur wüssten - Syntaktische Ambiguität von und Extraktion aus wenn-Sätzen* \| at [STaPs-22](https://staps.stuts.eu/en/22nd-staps-the-22nd-international-linguistics-and-language-education-conference/), Budapest, Innsbruck, and Tübingen
+-   01/2025 \| *Towards a taxonomy of German non-canonical passives* \| at [ConSOLE33](https://www.uni-goettingen.de/de/689865.html), Georg-August University Göttingen
+
+# Poster
+
+-   10/2025 \| *Creativity in (morpho)syntactic variation. The role of analogy* \| together with [Daczó, Szilvia](https://szilviadaczo.com) \| Poster \| at CRC Day, Bielefeld University
+-   04/2025 \| *Studies on Long-distance Dependencies* \| together with [Daczó, Szilvia](https://szilviadaczo.com) \| Poster \| at CRC Day, Bielefeld University
+
+# Upcomming
+
+-   10/2025 \| *Reanalysis by Analogy: The case of German wenn-clauses* \| Talk \| at CCD; Bielefeld University
+-   10/2025 \| *Reanalysis by Analogy: The case of German wenn-clauses* \| Poster \| at NELS56; New York University
+:::
+
+# Academic service
+
+::: panel-tabset
+# Reviewing
+
+-   BieLeiCoS2025
+-   ConSOLE33
+-   CCD
+
+# Conference & Workshop Organisation
+
+-   10/2025 \| *CCD: Cross-clausal Dependencies* \| together with Anke Himmelreich, Jutta M. Hartmann, András Bárány, Szilvia Daczó
+-   05/2025 \| *BieLeiCoS 2025: Bielefeld Leiden Comparative Syntax Conference 2025* \| together with Jutta M. Hartmann, Anke Himmelreich, Mary Amaechi, Szilvia Daczó, Shravani Patil
+-   05/2025 \| *LinCreGG: Linguistic Creativity in Generative Grammar* \| together with: Jutta M. Hartmann, András Bárány, Anke Himmelreich, Szilvia Daczó :::
+:::
