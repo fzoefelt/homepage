@@ -8,7 +8,6 @@ format:
 editor: visual
 ---
 
-
 <img src="images/FZ_picture.png"
      alt="Fabian Zöfelt"
      width="150"
@@ -23,6 +22,7 @@ I'm especially interested in (morpho)syntactic phenomena such as non-canonical p
 I'm also interested in historical linguistics and language change – in particular, in questions such as what motivates grammaticalization processes and how these can be modeled syntactically.
 
 </p>
+
 Last updated: November, 2025
 
 # Curriculum vitae
@@ -52,12 +52,12 @@ Last updated: November, 2025
 ::: panel-tabset
 # Publications
 
-- (in prep.) Was zu beschreiben ist: Towards a taxonomy of German non-canonical passives. In: Russo Cardona, L., F. Longo, T. Sgrizzi, and H. Tamleh, (eds). *Proceedings of the 33rd Conference of the Student Organization of Linguistics in Europe (29--31 January 2025, University of Göttingen)*.
-- (in prep.) A syntactic account on factive islands in German. *Languages, Special issue: New Trends in Syntactic Islands*.
+-   (in prep.) Was zu beschreiben ist: Towards a taxonomy of German non-canonical passives. In: Russo Cardona, L., F. Longo, T. Sgrizzi, and H. Tamleh, (eds). *Proceedings of the 33rd Conference of the Student Organization of Linguistics in Europe (29--31 January 2025, University of Göttingen)*.
+-   (in prep.) A syntactic account on factive islands in German. *Languages, Special issue: New Trends in Syntactic Islands*.
 
 # Talks
 
-- 10/2025 \| *Reanalysis by Analogy: The case of extraction from German wenn-clauses* \| Talk \| at CCD; Bielefeld University
+-   10/2025 \| *Reanalysis by Analogy: The case of extraction from German wenn-clauses* \| Talk \| at CCD; Bielefeld University
 -   07/2025 \| *On Morphosyntactic Creativity by Analogy. Case Studies on Long-Distance Dependencies in Hungarian and German* \| together with [Daczó, Szilvia](https://szilviadaczo.com) \| at CRC Colloquium, Bielefeld University
 -   05/2025 \| *German wenn-clauses and Linguistic Creativity* \| at [LinCreGG](https://www.uni-bielefeld.de/sfb/sfb1646/projekte/a01/Conferences/lincregg/), Bielefeld University
 -   04/2025 \| *Wenn wir es nur wüssten - Syntaktische Ambiguität von und Extraktion aus wenn-Sätzen* \| at [GAKT-BI - Kreativität & Interpretation](https://gakt.uni-koeln.de/sites/IDSLI/dozentenseiten/Heusinger/Konferenzen/GAKT-BI-2025-Programm.pdf), Bielefeld University
@@ -72,7 +72,8 @@ Last updated: November, 2025
 
 # Upcomming
 
-- 11/2025 \| *On Factors influencing the Acceptability of wh-Extraction from Factive Islands in German* \| Talk \| at New perspectives on long distance dependencies (Workshop part of The Annual International Conference of the Faculty of Foreign Languages and Literatures 20-22 November 2025); University of Bucharest
+-   11/2025 \| *On Factors influencing the Acceptability of wh-Extraction from Factive Islands in German* \| Talk \| at New perspectives on long distance dependencies (Workshop part of "the Annual International Conference of the Faculty of Foreign Languages and Literatures 20-22 November 2025"); University of Bucharest
+-   11/2025 \| *Reanalysis by Analogy: The case of extraction from German wenn-clauses* \| Poster \| at Network Meeting of linguistic CRCs; Bielefeld University
 :::
 
 # Academic service
