@@ -21,6 +21,7 @@ I'm especially interested in (morpho)syntactic phenomena such as non-canonical p
 
 I'm also interested in historical linguistics and language change – in particular, in questions such as what motivates grammaticalization processes and how these can be modeled syntactically.
 
+You can find some of my scientific output [here](https://gitlab.ub.uni-bielefeld.de/FZoefelt/output). Click [here](https://orcid.org/0009-0002-7566-9414) to find my orcid profile.
 </p>
 
 Last updated: November, 2025
@@ -57,6 +58,7 @@ Last updated: November, 2025
 
 # Talks
 
+-   11/2025 \| *Factive Islands in German. On Factors influencing the Acceptability of wh-Extraction* \| Talk \| at New perspectives on long distance dependencies (Workshop part of [the Annual International Conference of the Faculty of Foreign Languages and Literatures 20-22 November 2025](https://lls.unibuc.ro/2025/the-annual-international-conference-of-the-faculty-of-foreign-languages-and-literatures-20-22-november-2025/)); University of Bucharest
 -   10/2025 \| *Reanalysis by Analogy: The case of extraction from German wenn-clauses* \| Talk \| at [CCD](https://www.uni-bielefeld.de/sfb/sfb1646/projekte/a01/CrossClausalDependencies/); Bielefeld University
 -   07/2025 \| *On Morphosyntactic Creativity by Analogy. Case Studies on Long-Distance Dependencies in Hungarian and German* \| together with [Daczó, Szilvia](https://szilviadaczo.com) \| at CRC Colloquium, Bielefeld University
 -   05/2025 \| *German wenn-clauses and Linguistic Creativity* \| at [LinCreGG](https://www.uni-bielefeld.de/sfb/sfb1646/projekte/a01/Conferences/lincregg/), Bielefeld University
@@ -66,14 +68,14 @@ Last updated: November, 2025
 
 # Poster
 
+-   11/2025 \| *Proportional Analogy & Extraction from complement-like wenn-clauses* \| Poster \| at [7th CRC Networking Workshop](https://www.uni-bielefeld.de/sfb/sfb1646/sfb-networking-workshops/crc-networking-2025/#); Bielefeld University
 -   10/2025 \| *Reanalysis by Analogy: The case of extraction from German wenn-clauses* \| Poster \| at [NELS56](https://wp.nyu.edu/artsampscience-nels56/); New York University
 -   10/2025 \| *Creativity in (morpho)syntactic variation. The role of analogy* \| together with [Daczó, Szilvia](https://szilviadaczo.com) \| Poster \| at CRC Day, Bielefeld University
 -   04/2025 \| *Studies on Long-distance Dependencies* \| together with [Daczó, Szilvia](https://szilviadaczo.com) \| Poster \| at CRC Day, Bielefeld University
 
 # Upcomming
+- 01/2026 \| *Do modal particles improve extraction from factive islands in German?* \| Poster \| at [ConSOLE34]{https://console34.github.io}, University School for Advanced Studies IUSS Pavia
 
--   11/2025 \| *On Factors influencing the Acceptability of wh-Extraction from Factive Islands in German* \| Talk \| at New perspectives on long distance dependencies (Workshop part of [the Annual International Conference of the Faculty of Foreign Languages and Literatures 20-22 November 2025](https://lls.unibuc.ro/2025/the-annual-international-conference-of-the-faculty-of-foreign-languages-and-literatures-20-22-november-2025/)); University of Bucharest
--   11/2025 \| *Reanalysis by Analogy: The case of extraction from German wenn-clauses* \| Poster \| at [7th CRC Networking Workshop](https://www.uni-bielefeld.de/sfb/sfb1646/sfb-networking-workshops/crc-networking-2025/#); Bielefeld University
 :::
 
 # Academic service
