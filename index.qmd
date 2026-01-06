@@ -22,9 +22,10 @@ I'm especially interested in (morpho)syntactic phenomena such as non-canonical p
 I'm also interested in historical linguistics and language change – in particular, in questions such as what motivates grammaticalization processes and how these can be modeled syntactically.
 
 You can find some of my scientific output [here](https://gitlab.ub.uni-bielefeld.de/FZoefelt/output). Click [here](https://orcid.org/0009-0002-7566-9414) to find my orcid profile.
+
 </p>
 
-Last updated: November, 2025
+Last updated: January, 2026
 
 # Curriculum vitae
 
@@ -53,8 +54,9 @@ Last updated: November, 2025
 ::: panel-tabset
 # Publications
 
--   (in prep.) Was zu beschreiben ist: Towards a taxonomy of German non-canonical passives. In: Russo Cardona, L., F. Longo, T. Sgrizzi, and H. Tamleh, (eds). *Proceedings of the 33rd Conference of the Student Organization of Linguistics in Europe (29--31 January 2025, University of Göttingen)*.
--   (in prep.) A syntactic account on factive islands in German. *Languages, Special issue: New Trends in Syntactic Islands*.
+- (submitted) **A derivational account on factive islands in German**. *Languages, Special issue: New Trends in Syntactic Islands*.
+- (in prep.) ***Reanalysis by Analogy: Extraction from complement-like *wenn*-clauses in German***. In: Proceedings of NELS 56.
+- Zöfelt, F. 2025. **Was zu beschreiben ist: Towards a taxonomy of German non-canonical passives**. In: Federica Longo, L. Russo Cardona, L., T. Sgrizzi, and H. Tamleh, (eds). *Proceedings of the 33rd Conference of the Student Organization of Linguistics in Europe (29--31 January 2025, University of Göttingen)*, 155--179. Leiden University Centre for Linguistics. [pdf](https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxxiii.pdf).
 
 # Talks
 
@@ -74,8 +76,8 @@ Last updated: November, 2025
 -   04/2025 \| *Studies on Long-distance Dependencies* \| together with [Daczó, Szilvia](https://szilviadaczo.com) \| Poster \| at CRC Day, Bielefeld University
 
 # Upcomming
-- 01/2026 \| *Do modal particles improve extraction from factive islands in German?* \| Poster \| at [ConSOLE34](https://console34.github.io), University School for Advanced Studies IUSS Pavia
 
+-   01/2026 \| *Do modal particles improve extraction from factive islands in German?* \| Poster \| at [ConSOLE34](https://console34.github.io), University School for Advanced Studies IUSS Pavia
 :::
 
 # Academic service
