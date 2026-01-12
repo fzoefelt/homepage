@@ -121,5 +121,5 @@ Last updated: January, 2026
 
 <footer>
 <p>© 2026 Fabian Zöfelt | <a href="https://orcid.org/0009-0002-7566-9414" target="_blank">ORCID</a> | 
-<a href="https://gitlab.ub.uni-bielefeld.de/FZoefelt/output" target="_blank">GitLab</a></p>
+<a href="https://gitlab.ub.uni-bielefeld.de/FZoefelt/output" target="_blank">GitLab</a> | fabian.zoefelt@uni-bielefeld.de</p>
 </footer>
