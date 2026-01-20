@@ -39,7 +39,7 @@ I'm also interested in historical linguistics and language change – in particu
 
 </p>
 
-Last updated: January, 2026
+Contact: fabian [dot] zoefelt [at] uni-bielefeld [dot] de
 
 <hr class="section-divider">
 
@@ -127,7 +127,7 @@ Last updated: January, 2026
 
 <footer>
 
-<p>© 2026 Fabian Zöfelt \| <a href="https://orcid.org/0009-0002-7566-9414" target="_blank">ORCID</a> \| <a href="https://gitlab.ub.uni-bielefeld.de/FZoefelt/output" target="_blank">GitLab</a> \| fabian.zoefelt\@uni-bielefeld.de</p>
+<p>© 2026 Fabian Zöfelt \| <a href="https://orcid.org/0009-0002-7566-9414" target="_blank">ORCID</a> \| <a href="https://gitlab.ub.uni-bielefeld.de/FZoefelt/output" target="_blank">GitLab</a> \| fabian.zoefelt\@uni-bielefeld.de \| Last updated: January, 2026 </p>
 
 </footer>
 ::::::
