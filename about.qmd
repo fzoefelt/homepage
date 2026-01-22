@@ -1,0 +1,11 @@
+---
+title: "About me"
+toc: false
+---
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" rel="stylesheet">
+
+
+### Interests
+I'm especially interested in (morpho)syntactic phenomena such as non-canonical passive constructions and long-distance dependencies. My work is mainly focused on German and tries to combine descriptive approaches, empirical evidence, and minimal-generative perspectives. In my dissertation and as part of my work in project A01 ([<i class="fa-solid fa-file-pdf"></i>](https://doi.org/10.4119/unibi/3003217)), I explore whether exceptional extraction from islands can be explained by analogy. My PIs and supervisors are [Jutta M. Hartmann](https://www.uni-bielefeld.de/fakultaeten/linguistik-literaturwissenschaft/personen/jutta-hartmann/) and [András Bárány](https://andras.barany.at).
+
+I'm also interested in historical linguistics and language change – in particular, in questions such as what motivates grammaticalization processes and how these can be modeled syntactically.
