@@ -28,6 +28,6 @@ format:
   html:
     theme: cosmo
     include-in-header: |
-      <link href="resources/css/fontawesome.css" rel="stylesheet">
+      <link href="./resources/css/fontawesome.css" rel="stylesheet">
     css: styles-FZ.css
     toc: true
