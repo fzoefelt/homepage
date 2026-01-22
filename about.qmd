@@ -1,6 +1,6 @@
 ---
 title: "About me"
-html:
+toc: false
 ---
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" rel="stylesheet">
 
@@ -9,30 +9,3 @@ html:
 I'm especially interested in (morpho)syntactic phenomena such as non-canonical passive constructions and long-distance dependencies. My work is mainly focused on German and tries to combine descriptive approaches, empirical evidence, and minimal-generative perspectives. In my dissertation and as part of my work in project A01 ([<i class="fa-solid fa-file-pdf"></i>](https://doi.org/10.4119/unibi/3003217)), I explore whether exceptional extraction from islands can be explained by analogy. My PIs and supervisors are [Jutta M. Hartmann](https://www.uni-bielefeld.de/fakultaeten/linguistik-literaturwissenschaft/personen/jutta-hartmann/) and [András Bárány](https://andras.barany.at).
 
 I'm also interested in historical linguistics and language change – in particular, in questions such as what motivates grammaticalization processes and how these can be modeled syntactically.
-
-### Contact
-::: {.columns}
-
-::: {.column width="33%"}
-
-📧 **E-Mail**  
-fabian.zoefelt@uni-bielefeld.de
-
-:::
-::: {.column width="33%"}
-
-📞 **Phone**  
-+49 521 106-67207  
-
-:::
-::: {.column width="33%"}
-
-🌐 **Find my profiles at**  
-<i class="fas fa-house"></i> [Bielefeld University](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=476002375)
-
-<i class="fab fa-github"></i> [GitHub](https://gitlab.ub.uni-bielefeld.de/dashboard/projects/personal)
-
-<i class="fab fa-orcid"></i> [ORCID](https://orcid.org/0009-0002-7566-9414)
-
-:::
-:::
