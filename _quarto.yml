@@ -1,12 +1,15 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - resources
+    - images
 
 website:
   sidebar:
     title: "fabianzoefelt"
     logo: images/logo.png
-    style: "docked"
+    style: docked
     search: true
     contents:
       - text: "Start"
@@ -26,7 +29,7 @@ website:
 format:
   html:
     theme: cosmo
-    include-in-header: |
-      <link href="./resources/css/fontawesome.css" rel="stylesheet">
-    css: styles-FZ.css
     toc: true
+    css: styles-FZ.css
+    include-in-header: |
+      <link href="resources/css/fontawesome.css" rel="stylesheet">
