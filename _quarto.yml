@@ -1,5 +1,7 @@
 project:
+  project:
   type: website
+  output-dir: docs
 
 website:
   sidebar:
