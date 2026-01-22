@@ -1,0 +1,31 @@
+/* Layout mit rechter Sidebar */
+.layout-sidebar {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  gap: 2rem;
+}
+
+/* Sidebar-Stil */
+.sidebar {
+  background-color: #f8f9fa;
+  padding: 1.2rem;
+  border-left: 4px solid #0d6efd;
+  font-size: 0.95rem;
+}
+
+/* Profilbild  */
+.profile-pic {
+  float: right;
+  width: 150px;
+  border-radius: 25px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  margin: 0 0 10px 20px;
+}
+
+/* Contact icons */
+.fa-solid, .fa-brands {
+  color: #0b3c5d;   /* ruhig, akademisch */
+  margin-right: 0.5rem;
+  width: 1.2rem;
+  text-align: center;
+}
