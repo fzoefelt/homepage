@@ -1,0 +1,31 @@
+project:
+  type: website
+
+website:
+  sidebar:
+    title: "fabianzoefelt"
+    logo: images/logo.png
+    style: "docked"
+    search: true
+    contents:
+      - text: "Start"
+        href: index.qmd
+      - text: "About me"
+        href: about.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "Output"
+        href: scientific-output.qmd
+      - text: "Contact"
+        href: contact.qmd
+
+  page-footer:
+    center: "© 2026 Fabian Zöfelt"
+
+format:
+  html:
+    theme: cosmo
+    include-in-header: |
+      <link href="resources/css/fontawesome.css" rel="stylesheet">
+    css: styles-FZ.css
+    toc: true

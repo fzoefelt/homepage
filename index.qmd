@@ -1,133 +1,24 @@
 ---
-title: fabianzoefelt
-format:
-  html:
-    mainfont: "Noto Sans"
-    css: styles2.css
-    include-in-header: includes/head.html
-editor: visual
+title: "Welcome!"
+toc: false
+website:
+  page-navigation: true
 ---
 
-<!-- Fixed Top Navigation -->
+::: {.columns}
 
-<nav class="top-nav">
+::: {.column width="75%"}
 
-<a href="#welcome">About me</a> <a href="#cv">Curriculum vitae</a> <a href="#output">Scientific output</a> <a href="#service">Academic service</a>
+Hi! I'm Fabian Zöfelt (\[ˈfabiːan ˈtsœfɛlt\]). I'm a linguist and PhD student at <a href="https://www.uni-bielefeld.de" target="_blank">Bielefeld University</a>. Currently, I'm working in the project <a href="https://www.uni-bielefeld.de/sfb/sfb1646/projekte/a01/" target="_blank"> Creativity in (morpho)syntactic variation. The role of analogy</a> at <a href="https://www.uni-bielefeld.de/sfb/sfb1646/index.xml" target="_blank"> CRC 1646: Linguistic Creativity in Communication</a>.
 
-</nav>
-
-::: title-container
-<img src="images/Logo.png" alt="Logo" class="logo"/>
-
-<h1>Welcome to my homepage!</h1>
 :::
+::: {.column width="20%"}
 
-:::::: container
 <img src="images/FZ_picture.png"
      alt="Fabian Zöfelt"
      class="profile-pic">
 
 <p class="justify">
 
-# About me {#welcome}
-
-My name is Fabian Zöfelt (\[ˈfabiːan ˈtsœfɛlt\]). I'm a linguist and PhD student at <a href="https://www.uni-bielefeld.de" target="_blank">Bielefeld University</a>. Currently, I'm working in the project <a href="https://www.uni-bielefeld.de/sfb/sfb1646/projekte/a01/" target="_blank"> Creativity in (morpho)syntactic variation. The role of analogy</a> at <a href="https://www.uni-bielefeld.de/sfb/sfb1646/index.xml" target="_blank"> CRC 1646: Linguistic Creativity in Communication</a>.
-
-I'm especially interested in (morpho)syntactic phenomena such as non-canonical passive constructions and long-distance dependencies. My work is mainly focused on German and tries to combine descriptive approaches, empirical evidence, and minimal-generative perspectives. In my dissertation and as part of my work in project A01, I explore whether exceptional extraction from islands can be explained by analogy. My PIs and supervisors are [Jutta M. Hartmann](https://www.uni-bielefeld.de/fakultaeten/linguistik-literaturwissenschaft/personen/jutta-hartmann/) and [András Bárány](https://andras.barany.at).
-
-I'm also interested in historical linguistics and language change – in particular, in questions such as what motivates grammaticalization processes and how these can be modeled syntactically.
-
-</p>
-
-Contact: fabian [dot] zoefelt [at] uni-bielefeld [dot] de
-
-<hr class="section-divider">
-
-# Curriculum vitae {#cv}
-
-::: panel-tabset
-# Current Position
-
--   **Since May, 2024:** I am scientific staff and PhD candidate at [Bielefeld University](https://www.uni-bielefeld.de)\
-    Project: [Creativity in (morpho)syntactic variation. The role of analogy](https://www.uni-bielefeld.de/sfb/sfb1646/projekte/a01/)\
-    within [CRC 1646: Linguistic Creativity in Communication](https://www.uni-bielefeld.de/sfb/sfb1646/index.xml)
-
-# Previous Positions
-
--   **2023 -- 2025:** I was an external lecturer at [Ruhr University Bochum](https://www.ruhr-uni-bochum.de/de) ([German studies and historical linguistics](https://www.ruhr-uni-bochum.de/hist-linguistik/)). I taught two courses on (morpho)syntax of historical German (within the generative framework) and a practice course on grammaticalization and corpus research.
--   **10/2022 -- 12/2023:** Student assistant and tutor, graduate (WHK) \| German Studies, Chair: Historical Linguistics, Prof. Dr. Eric Fuß \| [Ruhr University Bochum](https://www.ruhr-uni-bochum.de/de)
--   **10/2021 -- 12/2023:** Student Assistant, graduate (WHK) \| German Studies, Dr. Judith Berman \| [Ruhr University Bochum](https://www.ruhr-uni-bochum.de/de)
--   **04/2021 -- 09/2021:** Student Assistant, undergraduate (SHK) \| German Studies, Dr. Judith Berman \| [Ruhr University Bochum](https://www.ruhr-uni-bochum.de/de)
-
-# Education
-
--   **2021 -- 2024:** M.A. German Studies (with distinction) \| at [Ruhr University Bochum](https://www.ruhr-uni-bochum.de/de) \| Thesis: *Was zu beschreiben ist: Nicht-kanonische Passivstrukturen im Deutschen* (Supervision: Eric G. Fuss & Karin Pittner)
--   **2018 -- 2021** \| B.A. Major: German Studies & History, Minor: Optionalbereich mit Profil Lehramt (=Education) \| at [Ruhr University Bochum](https://www.ruhr-uni-bochum.de/de) \| Thesis: *Zur korrelativen Subordination bei satzwertigen Komplementen* (Supervision: Judith Berman & Karin Pittner)
 :::
 
-<hr class="section-divider">
-
-# Scientific output {#output}
-
-::: panel-tabset
-# 📄 Publications
-
--   ✍️ (submitted) **A derivational account on factive islands in German**. *Languages, Special issue: New Trends in Syntactic Islands*.
--   ✍️ (in prep.) ***Reanalysis by Analogy: Extraction from complement-like*** **wenn*-clauses in German***. In: Proceedings of NELS 56.
--   📄 2025. **Was zu beschreiben ist: Towards a taxonomy of German non-canonical passives**. In: Federica Longo, L. Russo Cardona, L., T. Sgrizzi, and H. Tamleh, (eds). *Proceedings of the 33rd Conference of the Student Organization of Linguistics in Europe (29--31 January 2025, University of Göttingen)*, 155--179. Leiden University Centre for Linguistics. [pdf](https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxxiii.pdf).
-
-# 🗣️ Talks
-
--   11/2025 \| *Factive Islands in German. On Factors influencing the Acceptability of wh-Extraction* \| Talk \| at New perspectives on long distance dependencies (Workshop part of [the Annual International Conference of the Faculty of Foreign Languages and Literatures 20-22 November 2025](https://lls.unibuc.ro/2025/the-annual-international-conference-of-the-faculty-of-foreign-languages-and-literatures-20-22-november-2025/)); University of Bucharest
--   10/2025 \| *Reanalysis by Analogy: The case of extraction from German wenn-clauses* \| Talk \| at [CCD](https://www.uni-bielefeld.de/sfb/sfb1646/projekte/a01/CrossClausalDependencies/); Bielefeld University
--   07/2025 \| *On Morphosyntactic Creativity by Analogy. Case Studies on Long-Distance Dependencies in Hungarian and German* \| together with [Daczó, Szilvia](https://szilviadaczo.com) \| at CRC Colloquium, Bielefeld University
--   05/2025 \| *German wenn-clauses and Linguistic Creativity* \| at [LinCreGG](https://www.uni-bielefeld.de/sfb/sfb1646/projekte/a01/Conferences/lincregg/), Bielefeld University
--   04/2025 \| *Wenn wir es nur wüssten - Syntaktische Ambiguität von und Extraktion aus wenn-Sätzen* \| at [GAKT-BI - Kreativität & Interpretation](https://gakt.uni-koeln.de/sites/IDSLI/dozentenseiten/Heusinger/Konferenzen/GAKT-BI-2025-Programm.pdf), Bielefeld University
--   04/2025 \| *Wenn wir es nur wüssten - Syntaktische Ambiguität von und Extraktion aus wenn-Sätzen* \| at [STaPs-22](https://staps.stuts.eu/en/22nd-staps-the-22nd-international-linguistics-and-language-education-conference/), Budapest, Innsbruck, and Tübingen
--   01/2025 \| *Towards a taxonomy of German non-canonical passives* \| at [ConSOLE33](https://www.uni-goettingen.de/de/689865.html), Georg-August University Göttingen
-
-# 📌 Poster
-
--   11/2025 \| *Proportional Analogy & Extraction from complement-like wenn-clauses* \| Poster \| at [7th CRC Networking Workshop](https://www.uni-bielefeld.de/sfb/sfb1646/sfb-networking-workshops/crc-networking-2025/#); Bielefeld University
--   10/2025 \| *Reanalysis by Analogy: The case of extraction from German wenn-clauses* \| Poster \| at [NELS56](https://wp.nyu.edu/artsampscience-nels56/); New York University
--   10/2025 \| *Creativity in (morpho)syntactic variation. The role of analogy* \| together with [Daczó, Szilvia](https://szilviadaczo.com) \| Poster \| at CRC Day, Bielefeld University
--   04/2025 \| *Studies on Long-distance Dependencies* \| together with [Daczó, Szilvia](https://szilviadaczo.com) \| Poster \| at CRC Day, Bielefeld University
-
-# 📚 Teaching 
-
-- Summer term 2025 \| *Grundlagen der generativen Grammatik und die (historische) Syntax des Deutschen* (Basics of generative grammar and the (historical) syntax of German) \| Ruhr-Universität Bochum \| Proseminar (Undergraduate class)
-- Summer term 2024 \| *Deutsche syntax: Eine historische Perspektive* (German syntax: A historical perspective) \| Ruhr-Universität Bochum \| Proseminar (Undergraduate class)
-- Winter term 2023 \| *Grammatikalisierungen im Deutschen* (Grammaticalization processes in German) \| Ruhr-Universität Bochum \| Übung (Practise class)
-
-# Upcomming
-
-- 🗣  01/2026 \| *Factive Islands in German. Do modal particles improve extraction?* \| Talk \| at [ConSOLE34](https://console34.github.io), University School for Advanced Studies IUSS Pavia
-- ✍️ (in prep.) \| *Reanalysis by Analogy: A case study on cross-clausal A'-movement and complement-like wenn-clauses in German* \| my dissertation project 
-:::
-
-<hr class="section-divider">
-
-# Academic service {#service}
-
-::: panel-tabset
-# Reviewing
-
--   BieLeiCoS2025
--   ConSOLE33
--   CCD
-
-# Conference & Workshop Organisation
-
--   10/2025 \| *CCD: Cross-clausal Dependencies* \| together with Anke Himmelreich, Jutta M. Hartmann, András Bárány, Szilvia Daczó
--   05/2025 \| *BieLeiCoS 2025: Bielefeld Leiden Comparative Syntax Conference 2025* \| together with Jutta M. Hartmann, Anke Himmelreich, Mary Amaechi, Szilvia Daczó, Shravani Patil
--   05/2025 \| *LinCreGG: Linguistic Creativity in Generative Grammar* \| together with: Jutta M. Hartmann, András Bárány, Anke Himmelreich, Szilvia Daczó :::
-:::
-
-<hr class="section-divider">
-
-<footer>
-
-<p>© 2026 Fabian Zöfelt \| <a href="https://orcid.org/0009-0002-7566-9414" target="_blank">ORCID</a> \| <a href="https://gitlab.ub.uni-bielefeld.de/FZoefelt/output" target="_blank">GitLab</a> \| fabian.zoefelt\@uni-bielefeld.de \| Last updated: January, 2026 </p>
-
-</footer>
-::::::
