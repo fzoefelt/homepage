@@ -2,7 +2,6 @@ project:
   type: website
   output-dir: docs
   resources:
-    - resources
     - images
 
 website:
@@ -32,4 +31,5 @@ format:
     toc: true
     css: styles-FZ.css
     include-in-header: |
-      <link href="resources/css/fontawesome.css" rel="stylesheet">
+      <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" rel="stylesheet">
+
