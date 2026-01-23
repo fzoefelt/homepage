@@ -7,6 +7,11 @@ toc: true
 
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" rel="stylesheet">
 
+### Upcomming
+
+-   🗣 01/2026 \| *Factive Islands in German. Do modal particles improve extraction?* \| Talk \| at [ConSOLE34](https://console34.github.io), University School for Advanced Studies IUSS Pavia
+-   ✍️ (in prep.) \| *Reanalysis by Analogy: A case study on cross-clausal A'-movement and complement-like wenn-clauses in German* \| my dissertation project
+
 ### 📄 Publications
 
 -   ✍️ (submitted) **A derivational account on factive islands in German**. *Languages, Special issue: New Trends in Syntactic Islands*.
@@ -36,23 +41,4 @@ toc: true
 -   Summer term 2024 \| *Deutsche syntax: Eine historische Perspektive* (German syntax: A historical perspective) \| Ruhr-Universität Bochum \| Proseminar (Undergraduate class)
 -   Winter term 2023 \| *Grammatikalisierungen im Deutschen* (Grammaticalization processes in German) \| Ruhr-Universität Bochum \| Übung (Practise class)
 
-### Upcomming
 
--   🗣 01/2026 \| *Factive Islands in German. Do modal particles improve extraction?* \| Talk \| at [ConSOLE34](https://console34.github.io), University School for Advanced Studies IUSS Pavia
--   ✍️ (in prep.) \| *Reanalysis by Analogy: A case study on cross-clausal A'-movement and complement-like wenn-clauses in German* \| my dissertation project
-
-### Academic service
-
-::: panel-tabset
-# Reviewing
-
--   BieLeiCoS2025
--   ConSOLE33
--   CCD
-
-# Conference & Workshop Organisation
-
--   10/2025 \| *CCD: Cross-clausal Dependencies* \| together with Anke Himmelreich, Jutta M. Hartmann, András Bárány, Szilvia Daczó
--   05/2025 \| *BieLeiCoS 2025: Bielefeld Leiden Comparative Syntax Conference 2025* \| together with Jutta M. Hartmann, Anke Himmelreich, Mary Amaechi, Szilvia Daczó, Shravani Patil
--   05/2025 \| *LinCreGG: Linguistic Creativity in Generative Grammar* \| together with: Jutta M. Hartmann, András Bárány, Anke Himmelreich, Szilvia Daczó :::
-:::

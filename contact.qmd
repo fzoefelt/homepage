@@ -12,28 +12,30 @@ toc: false
 ::: {.column width="30%"}
 
 📧 **E-Mail**  
+
 fabian.zoefelt@uni-bielefeld.de
 
 :::
 ::: {.column width="20%"}
 
 📞 **Phone**  
+
 +49 521 106-67207  
 
 :::
 ::: {.column width="25%"}
 
 🌐 **Find my profiles at**  
-<i class="fas fa-house"></i> [Bielefeld University](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=476002375)
 
-<i class="fab fa-github"></i> [GitHub](https://gitlab.ub.uni-bielefeld.de/dashboard/projects/personal)
-
+<i class="fas fa-house"></i> [Bielefeld University](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=476002375)    
+<i class="fab fa-github"></i> [GitHub](https://gitlab.ub.uni-bielefeld.de/dashboard/projects/personal)  
 <i class="fab fa-orcid"></i> [ORCID](https://orcid.org/0009-0002-7566-9414)
 
 :::
 ::: {.column width="25%"}
 
 🏢 **Office**
+
 Universitätsstraße 25  
 33615 Bielefeld  
 Germany  

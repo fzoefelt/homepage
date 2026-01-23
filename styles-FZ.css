@@ -1,4 +1,12 @@
 /* Layout mit rechter Sidebar */
+body.index .layout-sidebar {
+  grid-template-columns: 1fr; /* Content-Spalte füllt alles */
+}
+
+body.index .sidebar {
+  display: none;
+}
+
 .layout-sidebar {
   display: grid;
   grid-template-columns: 3fr 1fr;
@@ -14,13 +22,42 @@
 }
 
 /* Profilbild  */
-.profile-pic {
-  float: right;
+.profile-media {
+  float: left;
   width: 150px;
+  margin: 0 0 10px 20px;
+  text-align: center;
+}
+
+/* Profilbild */
+.profile-pic {
+  width: 100%;
   border-radius: 25px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-  margin: 0 0 10px 20px;
+  display: block;
 }
+
+/* Caption */
+.profile-caption {
+  margin-top: 0.4rem;
+  font-size: 0.85rem;
+  color: #666;
+}
+
+
+.about-pic {
+  width: 100%;
+  border-radius: 25px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  display: block;
+}
+
+.about-caption {
+  margin-top: 0.4rem;
+  font-size: 0.85rem;
+  color: #666;
+}
+
 
 /* Contact icons */
 .fa-solid, .fa-brands {
@@ -28,4 +65,10 @@
   margin-right: 0.5rem;
   width: 1.2rem;
   text-align: center;
+}
+
+.caption {
+  text-align: center;
+  font-size: 0.9rem;
+  color: #666;
 }

@@ -6,7 +6,6 @@ website:
 ---
 
 ::: {.columns}
-
 ::: {.column width="75%"}
 
 Hi! I'm Fabian Zöfelt (\[ˈfabiːan ˈtsœfɛlt\]). I'm a linguist and PhD student at <a href="https://www.uni-bielefeld.de" target="_blank">Bielefeld University</a>. Currently, I'm working in the project <a href="https://www.uni-bielefeld.de/sfb/sfb1646/projekte/a01/" target="_blank"> Creativity in (morpho)syntactic variation. The role of analogy</a> at <a href="https://www.uni-bielefeld.de/sfb/sfb1646/index.xml" target="_blank"> CRC 1646: Linguistic Creativity in Communication</a>.
