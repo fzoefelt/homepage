@@ -10,14 +10,45 @@ website:
 
 Hi! I'm Fabian Zöfelt (\[ˈfabiːan ˈtsœfɛlt\]). I'm a linguist and PhD student at <a href="https://www.uni-bielefeld.de" target="_blank">Bielefeld University</a>. Currently, I'm working in the project <a href="https://www.uni-bielefeld.de/sfb/sfb1646/projekte/a01/" target="_blank"> Creativity in (morpho)syntactic variation. The role of analogy</a> at <a href="https://www.uni-bielefeld.de/sfb/sfb1646/index.xml" target="_blank"> CRC 1646: Linguistic Creativity in Communication</a>.
 
+::: {.text-center style="margin:3rem 0"}
+<div class="button-row d-flex justify-content-center flex-wrap" style="gap:1rem;">
+
+<a href="about.qmd" class="btn btn-primary d-flex flex-column align-items-center justify-content-center"
+   style="width:120px; height:120px; border-radius:1rem;">
+  <i class="fas fa-user fa-2x" style="margin-bottom:0.5rem;"></i>
+  About me
+</a>
+
+<a href="cv.qmd" class="btn btn-outline-primary d-flex flex-column align-items-center justify-content-center"
+   style="width:120px; height:120px; border-radius:1rem;">
+  <i class="fas fa-file-alt fa-2x" style="margin-bottom:0.5rem;"></i>
+  CV
+</a>
+
+<a href="scientific-output.qmd" class="btn btn-outline-primary d-flex flex-column align-items-center justify-content-center"
+   style="width:120px; height:120px; border-radius:1rem;">
+  <i class="fas fa-book fa-2x" style="margin-bottom:0.5rem;"></i>
+  Output
+</a>
+
+<a href="contact.qmd" class="btn btn-outline-primary d-flex flex-column align-items-center justify-content-center"
+   style="width:120px; height:120px; border-radius:1rem;">
+  <i class="fas fa-envelope fa-2x" style="margin-bottom:0.5rem;"></i>
+  Contact
+</a>
+
+</div>
 :::
+
+:::
+
 ::: {.column width="20%"}
 
 <img src="images/FZ_picture.png"
      alt="Fabian Zöfelt"
      class="profile-pic">
-
-<p class="justify">
+<figcaption class="profile-caption">
+    This is me. © Sascha Hermannski
+  </figcaption>
 
 :::
-

@@ -46,7 +46,10 @@ body.index .sidebar {
 
 
 .about-pic {
-  width: 100%;
+  width: 200px;        /* gewünschte Breite */
+  height: 200px;       /* gewünschte Höhe */
+  object-fit: cover;  /* Bild wird zugeschnitten */
+  object-position: top center; /* Fokuspunkt */
   border-radius: 25px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.15);
   display: block;
@@ -71,4 +74,14 @@ body.index .sidebar {
   text-align: center;
   font-size: 0.9rem;
   color: #666;
+}
+
+/* Hover effects */
+.btn {
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.btn:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
 }

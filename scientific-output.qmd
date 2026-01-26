@@ -30,15 +30,32 @@ toc: true
 
 ### 📌 Poster
 
+::: {.columns}
+::: {.column width="75%"}
+
 -   11/2025 \| *Proportional Analogy & Extraction from complement-like wenn-clauses* \| Poster \| at [7th CRC Networking Workshop](https://www.uni-bielefeld.de/sfb/sfb1646/sfb-networking-workshops/crc-networking-2025/#); Bielefeld University
 -   10/2025 \| *Reanalysis by Analogy: The case of extraction from German wenn-clauses* \| Poster \| at [NELS56](https://wp.nyu.edu/artsampscience-nels56/); New York University
 -   10/2025 \| *Creativity in (morpho)syntactic variation. The role of analogy* \| together with [Daczó, Szilvia](https://szilviadaczo.com) \| Poster \| at CRC Day, Bielefeld University
 -   04/2025 \| *Studies on Long-distance Dependencies* \| together with [Daczó, Szilvia](https://szilviadaczo.com) \| Poster \| at CRC Day, Bielefeld University
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="15%"}
+::: about-media
+```{=html}
+<img src="images/me_NELS.png"
+       alt="Me at NELS 56 at NYU, New York"
+       class="about-pic">
+```
+<p class="caption">
+Me at NELS 56 at NYU, New York.
+</p>
+</div>
+:::
 
 ### 📚 Teaching
 
 -   Summer term 2025 \| *Grundlagen der generativen Grammatik und die (historische) Syntax des Deutschen* (Basics of generative grammar and the (historical) syntax of German) \| Ruhr-Universität Bochum \| Proseminar (Undergraduate class)
 -   Summer term 2024 \| *Deutsche syntax: Eine historische Perspektive* (German syntax: A historical perspective) \| Ruhr-Universität Bochum \| Proseminar (Undergraduate class)
 -   Winter term 2023 \| *Grammatikalisierungen im Deutschen* (Grammaticalization processes in German) \| Ruhr-Universität Bochum \| Übung (Practise class)
-
-
+:::
