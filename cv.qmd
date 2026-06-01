@@ -21,17 +21,22 @@ toc: true
 -   **2021 -- 2024** \| M.A. German Studies (with distinction) \| at [Ruhr University Bochum](https://www.ruhr-uni-bochum.de/de) \| Thesis: *Was zu beschreiben ist: Nicht-kanonische Passivstrukturen im Deutschen* (Supervision: Eric G. Fuss & Karin Pittner)
 -   **2018 -- 2021** \| B.A. Major: German Studies & History, Minor: Optionalbereich mit Profil Lehramt (=Education) \| at [Ruhr University Bochum](https://www.ruhr-uni-bochum.de/de) \| Thesis: *Zur korrelativen Subordination bei satzwertigen Komplementen* (Supervision: Judith Berman & Karin Pittner)
 
+### Further Education
+- **10/2026--11/2026** \| Visiting Researcher \| at [University of Edinburgh](https://ppls.ed.ac.uk/linguistics-and-english-language) \| Local supervisor: András Bárány
+
 ### Academic service
 
 ::: panel-tabset
 # Reviewing
 
+-   ConSOLE34
 -   BieLeiCoS2025
 -   ConSOLE33
 -   CCD
 
 # Conference & Workshop Organisation
 
+-   05/2026 \| *PALC: Priming, analogy, and Linguistic Priming* \| together with Dilara Balaban, András Bárány, Joana Cholin, Szilvia Daczó, Amelie Ewald, Jutta M. Hartmann, Jana Häussler, Robert Lange, Eleonore Laubenstein, Ralf Vogel
 -   10/2025 \| *CCD: Cross-clausal Dependencies* \| together with Anke Himmelreich, Jutta M. Hartmann, András Bárány, Szilvia Daczó
 -   05/2025 \| *BieLeiCoS 2025: Bielefeld Leiden Comparative Syntax Conference 2025* \| together with Jutta M. Hartmann, Anke Himmelreich, Mary Amaechi, Szilvia Daczó, Shravani Patil
 -   05/2025 \| *LinCreGG: Linguistic Creativity in Generative Grammar* \| together with: Jutta M. Hartmann, András Bárány, Anke Himmelreich, Szilvia Daczó :::
