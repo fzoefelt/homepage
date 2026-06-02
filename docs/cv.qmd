@@ -1,0 +1,46 @@
+---
+title: "curriculum vitae"
+toc: true
+---
+
+### Current Position
+
+-   **Since May, 2024:** I am scientific staff and PhD candidate at [Bielefeld University](https://www.uni-bielefeld.de)\
+    Project: [Creativity in (morpho)syntactic variation. The role of analogy](https://www.uni-bielefeld.de/sfb/sfb1646/projekte/a01/)\
+    within [CRC 1646: Linguistic Creativity in Communication](https://www.uni-bielefeld.de/sfb/sfb1646/index.xml)
+
+### Previous Positions
+
+-   **2023 -- 2025:** I was an external lecturer at [Ruhr University Bochum](https://www.ruhr-uni-bochum.de/de) ([German studies and historical linguistics](https://www.ruhr-uni-bochum.de/hist-linguistik/)). I taught two courses on (morpho)syntax of historical German (within the generative framework) and a practice course on grammaticalization and corpus research.
+-   **10/2022 -- 12/2023:** Student assistant and tutor, graduate (WHK) \| German Studies, Chair: Historical Linguistics, Prof. Dr. Eric Fuß \| [Ruhr University Bochum](https://www.ruhr-uni-bochum.de/de)
+-   **10/2021 -- 12/2023:** Student Assistant, graduate (WHK) \| German Studies, Dr. Judith Berman \| [Ruhr University Bochum](https://www.ruhr-uni-bochum.de/de)
+-   **04/2021 -- 09/2021:** Student Assistant, undergraduate (SHK) \| German Studies, Dr. Judith Berman \| [Ruhr University Bochum](https://www.ruhr-uni-bochum.de/de)
+
+### Education
+
+-   **2021 -- 2024** \| M.A. German Studies (with distinction) \| at [Ruhr University Bochum](https://www.ruhr-uni-bochum.de/de) \| Thesis: *Was zu beschreiben ist: Nicht-kanonische Passivstrukturen im Deutschen* (Supervision: Eric G. Fuss & Karin Pittner)
+-   **2018 -- 2021** \| B.A. Major: German Studies & History, Minor: Optionalbereich mit Profil Lehramt (=Education) \| at [Ruhr University Bochum](https://www.ruhr-uni-bochum.de/de) \| Thesis: *Zur korrelativen Subordination bei satzwertigen Komplementen* (Supervision: Judith Berman & Karin Pittner)
+
+### Further Education
+- **10/2026--11/2026** \| Visiting Researcher \| at [University of Edinburgh](https://ppls.ed.ac.uk/linguistics-and-english-language) \| Local supervisor: András Bárány
+
+### Academic service
+
+::: panel-tabset
+# Reviewing
+
+-   ConSOLE34
+-   BieLeiCoS2025
+-   ConSOLE33
+-   CCD
+
+# Conference & Workshop Organisation
+
+-   05/2026 \| *PALC: Priming, analogy, and Linguistic Priming* \| together with Dilara Balaban, András Bárány, Joana Cholin, Szilvia Daczó, Amelie Ewald, Jutta M. Hartmann, Jana Häussler, Robert Lange, Eleonore Laubenstein, Ralf Vogel
+-   10/2025 \| *CCD: Cross-clausal Dependencies* \| together with Anke Himmelreich, Jutta M. Hartmann, András Bárány, Szilvia Daczó
+-   05/2025 \| *BieLeiCoS 2025: Bielefeld Leiden Comparative Syntax Conference 2025* \| together with Jutta M. Hartmann, Anke Himmelreich, Mary Amaechi, Szilvia Daczó, Shravani Patil
+-   05/2025 \| *LinCreGG: Linguistic Creativity in Generative Grammar* \| together with: Jutta M. Hartmann, András Bárány, Anke Himmelreich, Szilvia Daczó :::
+:::
+
+### File
+You can download my full CV here [<i class="fa-solid fa-file-pdf"></i>](https://wwwhomes.uni-bielefeld.de/fzoefelt/CV_Fabian_2026-01.pdf).
