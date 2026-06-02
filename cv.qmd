@@ -22,7 +22,8 @@ toc: true
 -   **2018 -- 2021** \| B.A. Major: German Studies & History, Minor: Optionalbereich mit Profil Lehramt (=Education) \| at [Ruhr University Bochum](https://www.ruhr-uni-bochum.de/de) \| Thesis: *Zur korrelativen Subordination bei satzwertigen Komplementen* (Supervision: Judith Berman & Karin Pittner)
 
 ### Further Education
-- **10/2026--11/2026** \| Visiting Researcher \| at [University of Edinburgh](https://ppls.ed.ac.uk/linguistics-and-english-language) \| Local supervisor: András Bárány
+
+-   **10/2026--11/2026** \| Visiting Researcher \| at [University of Edinburgh](https://ppls.ed.ac.uk/linguistics-and-english-language) \| Local supervisor: András Bárány
 
 ### Academic service
 
@@ -43,4 +44,5 @@ toc: true
 :::
 
 ### File
+
 You can download my full CV here [<i class="fa-solid fa-file-pdf"></i>](https://wwwhomes.uni-bielefeld.de/fzoefelt/CV_Fabian_2026-01.pdf).
