@@ -11,7 +11,7 @@ toc: true
 
 ### Previous Positions
 
--   **2023 -- 2025:** I was an external lecturer at [Ruhr University Bochum](https://www.ruhr-uni-bochum.de/de) ([German studies and historical linguistics](https://www.ruhr-uni-bochum.de/hist-linguistik/)). I taught two courses on (morpho)syntax of historical German (within the generative framework) and a practice course on grammaticalization and corpus research.
+-   **2023 -- 2025:** I was a lecturer at [Ruhr University Bochum](https://www.ruhr-uni-bochum.de/de) ([German studies and historical linguistics](https://www.ruhr-uni-bochum.de/hist-linguistik/)). (Winter term 2023, summer term 2024, and summer term 2025)
 -   **10/2022 -- 12/2023:** Student assistant and tutor, graduate (WHK) \| German Studies, Chair: Historical Linguistics, Prof. Dr. Eric Fuß \| [Ruhr University Bochum](https://www.ruhr-uni-bochum.de/de)
 -   **10/2021 -- 12/2023:** Student Assistant, graduate (WHK) \| German Studies, Dr. Judith Berman \| [Ruhr University Bochum](https://www.ruhr-uni-bochum.de/de)
 -   **04/2021 -- 09/2021:** Student Assistant, undergraduate (SHK) \| German Studies, Dr. Judith Berman \| [Ruhr University Bochum](https://www.ruhr-uni-bochum.de/de)
@@ -29,10 +29,11 @@ toc: true
 ::: panel-tabset
 # Reviewing
 
--   ConSOLE34
--   BieLeiCoS2025
--   ConSOLE33
--   CCD
+-   INFOSTR-DGfS49
+-   ConSOLE 34
+-   Cross-Clausal Dependencies
+-   BieLeiCoS 2025
+-   ConSOLE 33
 
 # Conference & Workshop Organisation
 

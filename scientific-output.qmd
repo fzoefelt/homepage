@@ -9,7 +9,14 @@ toc: true
 
 ### Dissertation Project:
 
--   ✍️ (in prep.) \| *Reanalysis by Analogy: A case study on cross-clausal A'-movement and complement-like wenn-clauses in German*
+-   *Reanalysis by Analogy: A case study on cross-clausal A'-movement and complement-like wenn-clauses in German*
+
+### Upcoming:
+
+-   10/2026 \| *Appraising analogy in creative long-distance dependencies in Hungarian and German* \| Talk \| together with [Daczó, Szilvia](https://szilviadaczo.com) \| at CRC Colloquium, Bielefeld University
+-   10/2026 \| *Extraction from complement-like wenn-clauses: Linguistic creativity motivated by analogy* \| Talk \| Meaning and Grammar Research Group, Edinburgh, UK
+-   11/2026 \| *On extraction from complement-like wenn-clauses in German* \| Talk \| SyntaxLab, Cambridge, UK
+-   01/2027 \| *tba.* \| Invited Talk \| Salzburg University, Austria
 
 ### 📄 Publications
 
@@ -37,6 +44,8 @@ toc: true
 
 ::::::: columns
 ::: {.column width="75%"}
+-   08/2026 \| *Extraction from Adjunct Clauses in German. On Analogy and Reanalysis* \| Poster \| DGfS summer school 2026, Bielefeld
+-   08/2026 \| *The syntax underlying inter-speaker variation in German extraction* \| Poster \| DGfS summer school 2026, Bielefeld
 -   11/2025 \| *Proportional Analogy & Extraction from complement-like wenn-clauses* \| Poster \| at [7th CRC Networking Workshop](https://www.uni-bielefeld.de/sfb/sfb1646/sfb-networking-workshops/crc-networking-2025/#); Bielefeld University
 -   10/2025 \| *Reanalysis by Analogy: The case of extraction from German wenn-clauses* \| Poster \| at [NELS56](https://wp.nyu.edu/artsampscience-nels56/); New York University
 -   10/2025 \| *Creativity in (morpho)syntactic variation. The role of analogy* \| together with [Daczó, Szilvia](https://szilviadaczo.com) \| Poster \| at CRC Day, Bielefeld University
@@ -68,3 +77,10 @@ Me at NELS 56 at NYU, New York.
 -   Winter term 2023 \| *Grammatikalisierungen im Deutschen* (Grammaticalization processes in German) \| Ruhr-Universität Bochum \| Übung (Practise class)
 ::::
 :::::::
+
+### Citizen Science Contributuions
+-   submitted \| Blog entry \| *Woher wissen wir, wie Wortformen unbekannter Wörter gebildet werden? Zur Rolle von Analogie* \| together with Szilvia Daczó & András Bárány \| submitted to [Sprachschmiede](https://sprachschmiede.net/blog)
+-   submitted \| Blog entry \| *Why Your Brain Can Conjugate a Word That Doesn't Exist? On the Role of Analogy* \| together with Szilvia Daczó & András Bárány \| submitted to [Sprachschmiede](https://sprachschmiede.net/blog)
+-   submitted \| Blog entry \| *Was unser Sprechen beeinflusst? Ein Beitrag über strukturelles Priming und Analogie* \| together with Szilvia Daczó & András Bárány \| submitted to [Sprachschmiede](https://sprachschmiede.net/blog)
+-   submitted \| Blog entry \| *What Shapes the Way We Speak? A Note on Structural Priming and Analogy* \| together with Szilvia Daczó & András Bárány \| submitted to [Sprachschmiede](https://sprachschmiede.net/blog)
+-   04/2025 \| Workshop *Sprache und Kreativität. Wie passt das zusammen* \| together with Ralf Vogel, Eleonore Laubenstein und Robert Lange \| CRC series *Faszination Sprache* \| VHS Bielefeld
