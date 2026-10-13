@@ -25,7 +25,7 @@ toc: true
 ### ✍ Manuscripts
 
 -   (submitted) **On factive islands in German: Do modal particles improve the acceptability of** *wh***-extraction?**. Submitted to Proceedings of ConSOLE 34.
--   (submitted) **Reanalysis by Analogy: Extraction from complement-like** *wenn***-clauses in German**. Submitted to Proceedings of NELS 56.
+-   (to appear) **Reanalysis by Analogy: Extraction from complement-like** *wenn***-clauses in German**. Submitted to Proceedings of NELS 56.
 -   (submitted) **A derivational account on factive islands in German**. Submitted to *Languages, Special issue: New Trends in Syntactic Islands*.
 
 ### 🗣️ Talks
